@@ -5,4 +5,5 @@
  *L'application également permet la gestion au quotidien des ventes et d'achats:*
  
   • Création de commande (vente et achats) et leur suivi.
+  
   • Gestion des clients et fournisseurs.
